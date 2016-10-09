@@ -1,0 +1,227 @@
+{
+  "podcasts": [
+    {
+      "id": "8f438a74-904e-47e4-869e-72c26832ef87",
+      "url": "http://iradex.com.br/podcast/setereinos/feed.xml",
+      "name": "Sete Reinos",
+      "description": {
+        "short": "Podcast sobre Game of Thrones",
+        "long": "O Sete Reinos é um podcast quinzenal sobre o universo criado por George RR Martin para o livro As Crônicas de Gelo e Fogo. Aqui, abordaremos Game of Thrones (Guerra dos Tronos) como uma franquia, passando por literatura, TV, games, jogos de tabuleiro e demais escritos do velho Martin. Quando a série da HBO estiver em cartaz, faremos uma edição do podcast a cada dois episódios inéditos da série."
+      },
+      "image": "http://iradex.net/wp-content/uploads/2014/11/sete-reinos-podcast-logo-1400.jpg",
+      "categories": [
+        "TV & Film"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "b11b1eb2-a5b4-47fd-8779-4a73b400a812",
+      "url": "http://feeds.feedburner.com/iradexpodcast",
+      "name": "Iradex",
+      "description": {
+        "short": "Lugar de coisas boas"
+      },
+      "image": "http://iradex.net/wp-content/uploads/2015/04/logo-podcast-1400.jpg",
+      "categories": [
+        "Arts"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "99b249aa-fb26-4a11-9995-f8f07556b245",
+      "url": "http://feeds.feedburner.com/soundcloud/TWhV",
+      "name": "Podcasteros - Game of Thrones",
+      "description": {
+        "long": "O melhor conteúdo em português sobre o trabalho do escritor George R. R. Martin, As Crônicas de Gelo e Fogo e a série da HBO, Game of Thrones.",
+        "short": "Ouça-nos Rugir!"
+      },
+      "image": "https://i2.sndcdn.com/avatars-000062709695-9n8jt5-t500x500.jpg",
+      "categories": [
+        "Arts",
+        "Arts>Literature"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "db5b05ae-554d-4b76-ac32-38960ac334dd",
+      "url": "http://deviante.com.br/podcasts/scicast/feed/",
+      "name": "Scicast",
+      "description": {
+        "long": "Porque a ciência tem que ser divertida.",
+        "short": "Porque a ciência tem que ser divertida"
+      },
+      "image": "http://deviante.com.br/wp-content/uploads/2016/03/scicast2_itunes_By_Deviante2.jpg",
+      "categories": [
+        "Science & Medicine",
+        "Science & Medicine>Natural Sciences",
+        "Society & Culture",
+        "Society & Culture>History",
+        "Technology",
+        "Technology>Tech News"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "ecaeb056-3433-475a-bca7-2c88ec50ebae",
+      "url": "http://feeds.feedburner.com/patrulha-da-noite",
+      "name": "A Patrulha da Noite",
+      "description": {
+        "long": "Reviews em áudio dos episódios da série Game of Thrones da HBO.",
+        "short": "No Patrulha da Noite, os corvos do Supernovo.net se reúnem semanalmente para discutir, debater, brigar e teorizar sobre os eventos que acontecem sobre o fértil solo de Westeros. Traduzindo para o português: são reviews semanais dos episódios de Game of Th"
+      },
+      "image": "http://supernovo.net/wp-content/uploads/powerpress/patrulha-da-noite-1400.png",
+      "categories": [
+        "Comedy",
+        "TV & Film"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "41cb97f9-fac4-4df6-82ca-86dc26b2e062",
+      "url": "http://feeds.soundcloud.com/users/soundcloud:users:82413921/sounds.rss",
+      "name": "Escriba Cafe",
+      "description": {
+        "long": "A história, o homem, seu mundo e o universo! Um podcast que te levará a incrível história do mundo e seus mistérios.",
+        "short": "A história, o homem, seu mundo e o universo! Um p…"
+      },
+      "image": "http://i1.sndcdn.com/avatars-000106012199-efa4ex-original.jpg",
+      "categories": [
+        "Society & Culture"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "0e04ac05-2703-4512-ba0a-eefcda74af49",
+      "url": "http://geekout.fm/feed.xml",
+      "name": "Geek Out",
+      "description": {
+        "short": "O podcast para geeks conectad@s",
+        "long": "Seu podcast semanal sobre cultura geek, com dicas de livros, filmes, séries e lugares geeks, tudo para você se divertir e aprender"
+      },
+      "image": "http://geekout.fm/images/geekout-logo-1400x1400.jpg",
+      "categories": [
+        "Society & Culture"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "1a2e59c1-519b-4dc6-b643-ab78cac5b4c5",
+      "url": "http://feeds.feedburner.com/99vidaspodcast",
+      "name": "99Vidas",
+      "description": {
+        "long": "Nostalgia, diversão e muita opinião sobre videogames.",
+        "short": "Nostalgia, diversão e muita opinião sobre videogames."
+      },
+      "image": "http://99vidas.com.br/wp-content/uploads/2016/07/99vidaslogo.jpg",
+      "categories": [
+        "Games & Hobbies",
+        "Games & Hobbies>Video Games"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "2761ab32-5be0-4376-a06d-6f944bb89a87",
+      "url": "http://www.grokpodcast.com/atom.xml",
+      "name": "Grok Podcast",
+      "description": {
+        "long": "Um podcast feito para programadores e empreendedores."
+      },
+      "image": "http://www.grokpodcast.com/images/logo_itunes_grande.png",
+      "categories": [
+        "Business",
+        "Business>Careers",
+        "Technology",
+        "Technology>Podcasting"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "e8d064cc-f2aa-4e79-be41-719cbf113175",
+      "url": "http://zofe.com.br/feed/podcast.xml",
+      "name": "Zone Of Front-Enders - Podcast",
+      "description": {
+        "short": "Podcast sobre desenvolvimento web, front-end e afins",
+        "long": "Um podcast quinzenal que aborda assuntos relacionados ao desenvolvimento para a internet, trazendo notícias, cobrindo eventos e entrevistas com nomes de expressão no desenvolvimento web nacional e mundial."
+      },
+      "image": "http://zofe.com.br/assets/img/zofe300.png",
+      "categories": [
+        "Technology",
+        "Technology>Tech News"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "75c24b91-d6db-4369-baa1-6469c492a751",
+      "url": "http://feeds.feedburner.com/rapaduracast",
+      "name": "RapaduraCast",
+      "description": {
+        "long": "Informação, diversão e muita opinião sobre cinema.",
+        "short": "O RapaduraCast é o podcast do portal Cinema Com Rapadura! De uma forma descontraída, o RapaduraCast traz o conteúdo do site que será discutido, além de algumas novidades e quadros engraçadíssimos. Aqui, não iremos medir as palavras ou fazer média, afinal,"
+      },
+      "image": "http://www.cinemacomrapadura.com.br/rapaduracast/img-rapaduracast01.jpg",
+      "categories": [
+        "TV & Film"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "fec811df-e73a-40fa-bd02-5171f1e79d20",
+      "url": "http://iradex.com.br/pilotando/feed.xml",
+      "name": "Pilotando",
+      "description": {
+        "short": "Assistimos os episódios piloto das séries e comentamos com vocês",
+        "long": "Assistimos os episódios piloto das séries e comentamos com vocês, aí você escolhe se vale a pena ir assistir ou não. Apresentado por Gabriel Franklin e PH Santos."
+      },
+      "image": "http://iradex.net/wp-content/uploads/2015/08/pilotando-logo-itunes-1400.jpg",
+      "categories": [
+        "TV & Film"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "a44dd425-6945-4600-8a5d-517ee3911094",
+      "url": "http://devnaestrada.com.br/feed.xml",
+      "name": "Devnaestrada",
+      "description": {
+        "short": "Bate papo com programadores Front-end e Back-end",
+        "long": "Podcast sobre front-end, back-end e desenvolvimento web. Venha conhecer o nosso ponto de vista no mundo da programação!"
+      },
+      "image": "http://devnaestrada.com.br/public/assets/img/dne-podcast-avatar1400.png",
+      "categories": [
+        "Society & Culture",
+        "Technology",
+        "Technology>Podcasting"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "55f7ca5d-472f-4864-ba19-31eaf5177784",
+      "url": "http://feeds.soundcloud.com/users/soundcloud:users:13696676/sounds.rss",
+      "name": "O Melhor Podcast do Brasil",
+      "description": {
+        "long": "Notícias irrelevantes, comentários impertinentes, assiduidade imprevisível e uma edição que fará você se perguntar se eu tenho problemas auditivos e/ou de coordenação motora: seja bem vindo ao MELHOR PODCAST DO BRASIL.\n\nAtualizado todo domingo, exceto quando não for.",
+        "short": "Notícias irrelevantes, comentários impertinentes,…"
+      },
+      "image": "http://i1.sndcdn.com/avatars-000215258383-17qpad-original.jpg",
+      "categories": [
+        "Comedy"
+      ],
+      "downloadedCover": false
+    },
+    {
+      "id": "8585a28b-f23b-47e3-88c6-ffc9ce284326",
+      "url": "http://www.wowgirl.com.br/feed/podcast/",
+      "name": "WoWGirlCast",
+      "description": {
+        "long": "Tudo sobre WoW em um só lugar ;)",
+        "short": "O Podcast sobre World of Warcraft, pela equipe do site WoWGirl"
+      },
+      "image": "http://www.wowgirl.com.br/wp-content/uploads/2014/12/wowgirlcast15.jpg",
+      "categories": [
+        "Games & Hobbies",
+        "Games & Hobbies>Video Games"
+      ],
+      "downloadedCover": false
+    }
+  ]
+}
